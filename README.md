@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A Flutter birthday gift for an astronomy enthusiast. The opening screen changes with the calendar.
+I made this app as a birthday gift for a friend who loves astronomy. It opens with a greeting on their birthday. On other days, it shows NASA’s Astronomy Picture of the Day and their personal task list.
 
 ## Tech stack
 
@@ -22,7 +22,7 @@ Flutter and Dart provide the mobile UI. Shared preferences store tasks on the de
 
 ## How it can be improved
 
-Moving the greeting date, image list and service address into a single configuration file would let someone adapt the app for another recipient without editing the screens.
+I’d put the birthday, photos and service address in one configuration file so you could make your own version for someone else.
 
 ## How to run
 
